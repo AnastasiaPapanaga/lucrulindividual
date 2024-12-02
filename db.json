@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "",
+      "name": "e",
+      "category": "e",
+      "description": "e"
+    },
+    {
+      "id": "1",
+      "name": "Item 12",
+      "category": "Category A",
+      "description": "Description for item 1"
+    },
+    {
+      "id": "",
+      "name": "1",
+      "category": "1",
+      "description": "1"
+    },
+    {
+      "id": "",
+      "name": "",
+      "category": "",
+      "description": ""
+    }
+  ]
+}
